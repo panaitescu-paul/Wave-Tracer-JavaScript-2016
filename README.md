@@ -1,4 +1,5 @@
 # Graph Generator
+Live Graph drawing based on changing formulas.
 
 1. draws graph based on SIN formula
 2. infinite generator
