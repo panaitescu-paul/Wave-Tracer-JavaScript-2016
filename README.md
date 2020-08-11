@@ -1,9 +1,10 @@
 # Graph Generator
-Live Graph drawing based on changing formulas.
+### Generate and draw a Sine Wave that is based on changing formulas.
 
-1. draws graph based on SIN formula
-2. infinite generator
-3. changes formula every few seconds
+# Features:
+1. Draw graph based on SIN formula
+2. Infinite generator
+3. Change formula every few seconds
 
 ### Demo 
 
