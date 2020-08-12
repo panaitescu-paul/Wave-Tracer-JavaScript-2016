@@ -1,4 +1,4 @@
-# Graph Generator
+# Wave Tracer - JavaScript - 2016
 ### Generate and draw a Sine Wave that is based on changing formulas.
 
 # Features:
